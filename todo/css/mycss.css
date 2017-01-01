@@ -1,0 +1,158 @@
+body{
+font-size: 1.3em;
+background-color: #1c1c1c;
+color:antiquewhite;
+font-family: 'Raleway', sans-serif;
+text-align: center;
+text-transform: capitalize;
+
+}
+
+#header{
+text-align: left;
+}
+
+#wrapper{
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+margin-top: -70px;
+padding-bottom: 20px;
+}
+
+#container{
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+max-width: 700px;
+}
+
+#main{
+padding-top:170px;
+font-size: 1.5em;
+    position:relative;
+}
+
+#top{
+background-color: #3e5574;
+position:fixed;
+max-width: inherit;
+width:100%;
+z-index: 99;
+}
+
+#wordwrap{
+width:100px;
+margin-left: 50px;
+display: inline-block;
+}
+
+em{
+font-size: 0.5em;
+    color:#adb4b9
+}
+
+ul{
+width:100%;    
+padding-left: 0;
+text-align: left;
+	
+}
+
+li{
+padding: 7px 30px;
+border-bottom: solid 1px;
+list-style-type: none;
+background-color:#454444;
+}
+
+li .textbox:hover{
+background-color: #576374;
+}
+
+
+#itemDescription {
+border:none;
+color:black;
+border-radius: 8px;
+padding: 5px 20px;
+font-size: 1.5em;
+background-color:antiquewhite;
+width:60%;
+}
+
+
+#itemNo, #tobeDel{
+font-size: 1.3em;
+text-align: right;
+padding: 2px 25px;
+}
+
+
+#remove img{
+width:50px;
+padding-top:2px;
+}
+
+#remove{
+background-color: #c3c8cc;
+margin-top:-10px;
+}
+
+#remove:hover{
+background-color: #f46e3e;
+}
+
+#add{
+font-size: 1.2em;
+padding: 9px 10px 5px 10px;
+border-radius: 8px;
+width:50px;
+vertical-align:baseline;
+
+}
+
+.textbox{
+background-color: #454444;
+border:none;
+height:auto;
+margin-left: 20px;
+width: 70%;
+text-transform: capitalize;
+}
+
+
+.textbox:hover{
+background-color: #576374;
+    
+}
+
+
+#logo{
+width:70px;
+}
+
+
+.checkbox{
+
+
+    
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+
+}
+
+#disclaimer{
+text-align: left;
+margin-top: -20px;
+
+}
+
+
+
+
+
+

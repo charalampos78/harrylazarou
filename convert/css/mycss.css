@@ -1,0 +1,40 @@
+input{
+color:black;
+	font-size: 1.5em;
+	text-align: center;
+	width: 150px
+		
+}
+
+#result{
+    margin-top:10px;
+    font-size: 2.0em;
+    visibility: hidden;
+    padding:5px;
+    color:#FCAC45;
+    width:100%;
+    word-wrap: normal;
+}
+
+.btn-group{
+    margin-left: 0px;
+	margin-top: 10px;
+	min-height: 50px;
+    
+}
+
+
+span.glyphicon-retweet{
+    font-size: 2em ;
+    margin: 5px;
+    
+}
+
+
+h3 span.glyphicon-retweet{
+    font-size: 1em ;
+    margin: 5px;
+    
+}
+
+
